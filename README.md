@@ -1,2 +1,3 @@
 # dbt
-Used to learn dbt
+There is work in progress.
+I use this repository to learn dbt and snowflake
